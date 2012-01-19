@@ -4,9 +4,8 @@
 
 include $(GOROOT)/src/Make.inc
 
-TARG=readline
+TARG=bitbucket.org/taruti/readline
 CGOFILES=readline.go
-CGO_LDFLAGS=-lreadline
 
 CLEANFILES+=readline_test
 

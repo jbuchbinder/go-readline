@@ -2,6 +2,7 @@
 
 package readline
 
+// #cgo LDFLAGS: -lreadline
 // #include <stdio.h>
 // #include <stdlib.h>
 // #include <readline/readline.h>
