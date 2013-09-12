@@ -1,5 +1,7 @@
 # GO-READLINE
 
+[![Build Status](https://secure.travis-ci.org/jbuchbinder/go-readline.png)](http://travis-ci.org/jbuchbinder/go-readline)
+
 * https://github.com/jbuchbinder/go-readline
 
 ## CHANGELOG

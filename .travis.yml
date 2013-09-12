@@ -1,0 +1,7 @@
+language: go
+go:
+  - 1.0
+  - 1.1
+  - tip
+install:
+  - sudo apt-get install -y libreadline-dev
