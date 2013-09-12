@@ -2,7 +2,7 @@
 package readline
 
 import (
-  "testing"
+	"testing"
 )
 
 func TestReadline(t *testing.T) {
